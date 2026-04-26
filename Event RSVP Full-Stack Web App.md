@@ -48,8 +48,8 @@ Set these **environment variables** in your Lambda configuration. Feel free to c
 
 | Variable | Example | Description |
 |-----------|----------|-------------|
-| REGION  | ap-southeast-1 | AWS region |
-| DB_HOST | mydb.xxxxx.ap-southeast-1.rds.amazonaws.com | MySQL host |
+| REGION  | us-east-1 | AWS region |
+| DB_HOST | mydb.xxxxx.us-east-1.rds.amazonaws.com | MySQL host |
 | DB_USER | admin | MySQL user |
 | DB_PASS | ******** | MySQL password |
 | DB_NAME | eventsdb | MySQL database |
